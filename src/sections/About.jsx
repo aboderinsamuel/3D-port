@@ -76,7 +76,7 @@ const About = ({ isLightMode }) => {
                             <p className="grid-subtext">
                                 You can download my resume&nbsp;
                                 <a 
-                                    href="/myCV.pdf" 
+                                    href="/myResume.pdf" 
                                     target="_blank" 
                                     rel="noopener noreferrer"
                                     className="text-blue-600 font-semibold hover:cursor-pointer hover:underline">
