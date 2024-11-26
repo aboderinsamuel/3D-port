@@ -50,12 +50,12 @@ const techStacks = [
   {
     name: "Frontend",
     icon: Code,
-    technologies: ["React", "Vue.js", "Angular", "JavaScript", "TypeScript", "Three.js"],
+    technologies: ["React", "JavaScript", "TypeScript", "Three.js"],
   },
   {
-    name: "Backend",
+    name: "Languages",
     icon: Database,
-    technologies: ["Java", "C++", "Python", "GPT", "TensorFlow"],
+    technologies: ["Java", "C++", "Python",],
   },
   {
     name: "Databases",
@@ -65,7 +65,7 @@ const techStacks = [
   {
     name: "DevOps",
     icon: Cpu,
-    technologies: ["Docker", "Kubernetes", "AWS", "Jenkins", "Terraform", "Git"],
+    technologies: ["Docker", "Kubernetes", "AWS", "Git"],
   },
 ];
 
